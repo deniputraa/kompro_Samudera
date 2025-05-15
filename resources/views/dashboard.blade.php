@@ -187,8 +187,8 @@
                             <div class="overflow-hidden mb-4">
                                 <img class="img-fluid" src="img/Storage.png" alt="">
                             </div>
-                            <h4 class="mb-3">Penyimpanan & Pemenuhan Pesanan</h4>
-                            <p>Layanan pergudangan dan pemenuhan pesanan (order fulfillment) dengan sistem yang terintegrasi dan aman untuk produk sensitif.</p>
+                            <h4 class="mb-3">Pemenuhan Pesanan</h4>
+                            <p>Layanan pemenuhan pesanan (order fulfillment) dengan sistem yang terintegrasi dan aman untuk produk sensitif.</p>
                         </div>
                     </div>
                 </div>
